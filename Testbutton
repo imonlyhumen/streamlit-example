@@ -1,0 +1,5 @@
+if sd.button("Download"):
+sd.success("Download successful!")
+
+Else:
+sd.error(f"Download failed: {str(e)}")
